@@ -47,3 +47,6 @@ public class MainActivity2Fragment extends Fragment {
         return layFrag2;
     }
 }
+
+
+//Terminado
